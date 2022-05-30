@@ -1,0 +1,3 @@
+[submodule "cudaDev"]
+	path = cudaDev
+	url = https://github.com/TanWei/cudaDev.git
